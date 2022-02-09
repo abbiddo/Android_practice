@@ -3,8 +3,6 @@
 <details>
   <summary> JAVA </summary>
 
-  * infren
-
 </details>
 
 <details>
